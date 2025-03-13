@@ -14,17 +14,9 @@ I'm Marco, a **software developer** with a passion for **full stackweb developme
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ## 🔥 About Me
+
 🎓 I hold a **Master’s degree in Nuclear and Energy Engineering (110/110 cum laude)** at the University of Bologna.  
 💼 Currently working at **NIER Ingegneria** for over 4 years as a **Software Developer**.
-
-## 💻 My Projects
-
-- **[Deephours](https://github.com/mistahuman/deephours)** ⏳  
-  A **FastAPI + MongoDB** app to track worked hours with a sleek **SvelteKit UI**.  
-
-- **[Rust Git Stats](https://github.com/mistahuman/rust-git-stats)** 📊  
-  A **Rust-based** tool for analyzing **Git repositories**, showing commits, lines of code, and contribution stats.  
-
 
 ## 📫 Contact
 
