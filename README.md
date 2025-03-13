@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Marco, a **software developer** with a passion for **web development** and **system programming**.
+I'm Marco, a **software developer** with a passion for **full stackweb development** and **system programming**.
 
 ## 🔧 Tech Stack
 
@@ -14,24 +14,22 @@ I'm Marco, a **software developer** with a passion for **web development** and *
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ## 🔥 About Me
-
-🚀 Passionate about **full stack web development**.  
-🐧 Linux enthusiast.  
-📌 Currently building a **FastAPI + SvelteKit + Skeleton** template for modern web apps.  
+🎓 I hold a **Master’s degree in Nuclear and Energy Engineering (110/110 cum laude)** at the University of Bologna.  
+💼 Currently working at **NIER Ingegneria** for over 4 years as a **Software Developer**.
 
 ## 💻 My Projects
 
-- **[Deephours](https://github.com/tuo-username/deephours)** ⏳  
+- **[Deephours](https://github.com/mistahuman/deephours)** ⏳  
   A **FastAPI + MongoDB** app to track worked hours with a sleek **SvelteKit UI**.  
 
-- **[Rust Git Stats](https://github.com/tuo-username/rust-git-stats)** 📊  
+- **[Rust Git Stats](https://github.com/mistahuman/rust-git-stats)** 📊  
   A **Rust-based** tool for analyzing **Git repositories**, showing commits, lines of code, and contribution stats.  
 
 
 ## 📫 Contact
 
 📩 Feel free to reach out!  
-💼 [LinkedIn](https://linkedin.com/in/marco-lanconelli) | 🐙 [GitHub](https://github.com/mistahuman) | 🌐 [Website](https://mistahuman.github.io)
+📧 [Email me](mailto:marco.lanconelli@outlook.it) 💼 [LinkedIn](https://linkedin.com/in/marco-lanconelli) | 🐙 [GitHub](https://github.com/mistahuman) | 🌐 [Website](https://mistahuman.github.io)
 
 > [!NOTE]  
 > I'm always open to new collaborations and interesting projects! **Chill and dev!** 🚀
