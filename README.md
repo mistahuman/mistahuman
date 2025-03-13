@@ -15,9 +15,9 @@ I'm Marco, a **software developer** with a passion for **web development** and *
 
 ## 🔥 About Me
 
-🚀 Passionate about **full stack web development**, **system programming**, and **high-performance applications**.  
-📌 Currently building a **FastAPI + SvelteKit + Skeleton** template for modern web apps.  
+🚀 Passionate about **full stack web development**.  
 🐧 Linux enthusiast.  
+📌 Currently building a **FastAPI + SvelteKit + Skeleton** template for modern web apps.  
 
 ## 💻 My Projects
 
@@ -34,5 +34,4 @@ I'm Marco, a **software developer** with a passion for **web development** and *
 💼 [LinkedIn](https://linkedin.com/in/marco-lanconelli) | 🐙 [GitHub](https://github.com/mistahuman) | 🌐 [Website](https://mistahuman.github.io)
 
 > [!NOTE]  
-> I'm always open to new collaborations and interesting projects! **Chill and dev!** 🚀.
-🚀
+> I'm always open to new collaborations and interesting projects! **Chill and dev!** 🚀
