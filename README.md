@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Marco, a **software developer** with a passion for **full stackweb development** and **system programming**.
+I'm Marco, a **software developer** with a passion for **full stack web development** and **system programming**.
 
 ## 🔧 Tech Stack
 
