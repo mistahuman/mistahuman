@@ -1,4 +1,4 @@
-## 🔥 About Me
+## About Me
 
 Hi, I'm Marco — a **freelance software engineer** passionate about **full stack web development** and **system programming**.  
 I help companies design and build scalable software solutions — from microservice architectures to modern web applications.
@@ -6,7 +6,7 @@ I help companies design and build scalable software solutions — from microserv
 🎓 I hold a **Master’s degree in Nuclear and Energy Engineering (110/110 cum laude)** from the University of Bologna.  
 💼 Previously at **NIER Ingegneria**, where I worked on safety-critical systems and simulation tools for railway communication protocols.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -18,7 +18,7 @@ I help companies design and build scalable software solutions — from microserv
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-## 📫 Contact
+## Contact
 📩 Feel free to reach out!  
 
 [Email](mailto:marco.lanconelli@outlook.it) • [LinkedIn](https://linkedin.com/in/marco-lanconelli) • [GitHub](https://github.com/mistahuman) • [Website](https://mistahuman.github.io)
