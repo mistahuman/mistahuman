@@ -3,7 +3,7 @@
 Hi, I’m Marco — a **freelance software engineer** passionate about **full stack web development** and **system programming**.  
 I help companies design and build scalable software solutions — from microservice architectures to modern web applications.
 
-🎓 I hold a **Master’s degree in Nuclear and Energy Engineering (110/110 cum laude)** from the University of Bologna — [thesis](https://github.com/mistahuman/alfred-lfr-thesis).  
+🎓 I hold a **Master’s degree in Nuclear and Energy Engineering (110/110 cum laude)** from the University of Bologna — [thesis](https://github.com/mistahuman/marcolanconelli-thesis).  
 💼 Previously at **NIER Ingegneria**, where I worked on safety-critical systems and simulation tools for railway communication protocols.
 
 ## Tech Stack
