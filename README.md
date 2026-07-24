@@ -12,7 +12,6 @@ Full stack web development · System programming
 
 Open to freelance work and collaborations.
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:marco.lanconelli@outlook.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-lanconelli)
+[Email](mailto:marco.lanconelli@outlook.it) · [LinkedIn](https://linkedin.com/in/marco-lanconelli)
 
 > *Chill and dev!* 🚀
